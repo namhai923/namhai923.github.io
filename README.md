@@ -36,7 +36,6 @@
     - Open Command Prompt then redirect to the folder that you just create
     ![connect_repo](img/connect_repo.gif)
     - Finally, enter your GitHub credentials if they are required  
-    <br>
 
     According to Etter's book, to create a static website, you will need a remote repository and push the finished site to it. GitHub Pages will use your remote repository as a production server. So that your website will be updated easily based on your remote repository: adding new files, updating existing files and deleting stale files.
 4. **_Uploading your resume to GitHub_**  
@@ -54,7 +53,7 @@
     To make sure that your resume is displayed as you expect, you should use GitHub Flavored Markdown (GFM). You can also use "vanilla" Markdown but it only has a limited set of features. Etter also recommend using GFM in his book:
     > Using only "vanilla" Markdown syntax allows for broad compatibility, but you miss out on features like tables and "fenced" code blocks. Using a flavor of Markdown means you might have to rework your source files if you ever want to switch to a different flavor, but the level of effort in such a switch would likely be low. GitHub Flavored Markdown is a popular and fine choice for simple web-based help systems.
 
-5. **_Hosting resume on GitHub Pages_**
+5. **_Hosting resume on GitHub Pages_**  
     After your resume is uploaded to your GitHub repository, you can now use GitHub Pages' features to create a resume-website. To host a resume on GiHub Pages you need to:
     - Open the **Settings** tab
     - On the settings page, choose the **Pages** section in the table on the left
@@ -66,10 +65,10 @@
     ![host_resume](img/host_resume.gif)
 
     The reason for having a resume-website is better than a resume pdf is that it is easier to update and you need to keep your resume up to date. Etter also mentions about this in his book: 
-    > PDFs get downloaded onto hard drives and then sit there like day-old bagels, growing more and more stale until they're actively harmful. You can never update them. Hosting your content on a website gives you the power to fix inaccuracies almost instantly and keep your content in sync with the latest software release".
+    > PDFs get downloaded onto hard drives and then sit there like day-old bagels, growing more and more stale until they're actively harmful. You can never update them. Hosting your content on a website gives you the power to fix inaccuracies almost instantly and keep your content in sync with the latest software release.
 
 6. **_Removing header from your resume-website (Optional)_**  
-You already have your resume hosted on a website using GitHub Pages. However, there is a header in the theme options that are provided by GitHub Pages.![page_header](img/page_header.png)
+You already have your resume hosted on a website using GitHub Pages. However, there is a header in the theme options that are provided by GitHub Pages like the picture below.![page_header](img/page_header.png)
 To make your website looks nicer by removing that header you need to: 
     - Create a file `/assets/css/style.scss` with content:
         ```
@@ -98,7 +97,13 @@ In addition to all the theme options that are listed in GitHub Pages, there are 
 
 ## Authors and Acknowledgment
 
-Thanks to Andrew Etter for an amazing book about technical writing which gives me motivation to write this instruction.
+This guide is written by Minh Nam Hai Nguyen
+
+Thanks to Andrew Etter for an amazing book about technical writing which gives me motivation to write this instruction. Thanks to my group members for giving many good advices:
+- Ali Ahsen Muhammad Jafry Syed
+- Md Jannatul Nayem
+- Akashdeep Singh
+- Benjamin Zhou
 
 ## FAQs
 
