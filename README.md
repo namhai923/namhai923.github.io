@@ -68,7 +68,7 @@
     The reason for having a resume-website is better than a resume pdf is that it is easier to update and you need to keep your resume up to date. Etter also mentions about this in his book: 
     > PDFs get downloaded onto hard drives and then sit there like day-old bagels, growing more and more stale until they're actively harmful. You can never update them. Hosting your content on a website gives you the power to fix inaccuracies almost instantly and keep your content in sync with the latest software release".
 
-6. **_Removing header from your resume-website_ (Optional)**  
+6. **_Removing header from your resume-website (Optional)_**  
 You already have your resume hosted on a website using GitHub Pages. However, there is a header in the theme options that are provided by GitHub Pages.![page_header](img/page_header.png)
 To make your website looks nicer by removing that header you need to: 
     - Create a file `/assets/css/style.scss` with content:
@@ -102,8 +102,7 @@ Thanks to Andrew Etter for an amazing book about technical writing which gives m
 
 ## FAQs
 
-- Why is Markdown better than a word
-processor?
+- Why is Markdown better than a word processor?
     > You can read this [Markdown overview](https://www.markdownguide.org/getting-started) to know more about the reason why it is better than a word processor.
 - Why is my resume not showing up?
     > Maybe you didn't follow all the steps correctly, the mistake that users often encounter is forgetting to rename resume to `index.md`. My advice is that you should go through all the steps one more time to make sure that you didn't make any mistake.
