@@ -10,8 +10,6 @@ layout: base
 * **Phone:** 999-999-9999
 * **GitHub:** <https://github.com/namhai923>
 
----
-
 ## Education
 
 * **May 2019 - May 2020**
