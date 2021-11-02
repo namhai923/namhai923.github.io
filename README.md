@@ -75,8 +75,8 @@ To make your website looks nicer by removing that header you need to:
         ```
         ---
         ---
-        
-        @import "{{ site.theme }}"
+
+        @import "{{ site.theme }}";
 
         header {
             display: none;
