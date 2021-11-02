@@ -106,4 +106,4 @@ Thanks to Andrew Etter for an amazing book about technical writing which gives m
 processor?
     > You can read this [Markdown overview](https://www.markdownguide.org/getting-started) to know more about the reason why it is better than a word processor.
 - Why is my resume not showing up?
-    > Maybe you didn't follow all the steps correctly, the mistake that users often encounter is forgetting to rename resume to `index.md`. My advice is that you should go through all the steps one more time to make sure that you didn't make any mistake."# namhai923.github.io" 
+    > Maybe you didn't follow all the steps correctly, the mistake that users often encounter is forgetting to rename resume to `index.md`. My advice is that you should go through all the steps one more time to make sure that you didn't make any mistake.
