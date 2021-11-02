@@ -23,8 +23,6 @@ layout: base
     Current GPA: 4.31/4.5  
     Expected: September 2023
 
----
-
 ## Technical Skills
 
 * **Programming Languages**
@@ -47,8 +45,6 @@ layout: base
   * NodeJS and ExpressJS
   * Redux
 
----
-
 ## Projects
 
 * [**PokeGene**](https://github.com/namhai923/PokeGene)  
@@ -69,8 +65,6 @@ layout: base
 * [**Excel**](https://github.com/namhai923/Excel)
   > An application that will take in a excel file (.xlsx) and extract selected column to a text file.
 
----
-
 ## Volunteer
 
 * **June 2013 - Aug 2013**
@@ -84,8 +78,6 @@ layout: base
 * **September 2019**
   > **Extra Life North**  
   Preparing for a 24-hour game-a-thon charity event to raise money for the Children's Hospital Foundation of Manitoba.
-
----
 
 ## Hobbies
 
