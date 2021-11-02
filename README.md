@@ -7,7 +7,6 @@
 
 ## Steps to host a resume on GitHub Pages
 
----
 1. **_Installing and setting up Git on your computer_**  
     To connect to GitHub, you will need to have Git installed on your computer, you can download it [here](https://git-scm.com/downloads). After Git is installed, you should make some configuration by running these commands in your Command Prompt:  
 
@@ -92,7 +91,6 @@ In addition to all the theme options that are listed in GitHub Pages, there are 
 
 ## More Resources
 
----
 - [Markdown overview](https://www.markdownguide.org/getting-started)
 - [Markdown tutorial](https://www.markdowntutorial.com/)
 - [GitHub Pages overview](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
@@ -100,12 +98,10 @@ In addition to all the theme options that are listed in GitHub Pages, there are 
 
 ## Authors and Acknowledgment
 
----
 Thanks to Andrew Etter for an amazing book about technical writing which gives me motivation to write this instruction.
 
 ## FAQs
 
----
 - Why is Markdown better than a word
 processor?
     > You can read this [Markdown overview](https://www.markdownguide.org/getting-started) to know more about the reason why it is better than a word processor.
