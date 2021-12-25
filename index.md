@@ -87,8 +87,15 @@ layout: base
   * Making drinks for customers.
   * Managing and declaring amount of materials used per day.
 
+  > **Highland Coffee** - _Server_  
+  * Preparing the coffee shop before customers arrive.
+  * Serving drinks to customers.
+  * Cleaning up after customers leave.
+
 ## Hobbies
 
 * **Sports:** Basketball, Soccer
-* **Games:** Board games, Video games, Card games
+* **Games:** 
+  * Playing board games with friends
+  * Playing video games on computer and nintendo switch
 * **Others:** Traveling, Watching movies
