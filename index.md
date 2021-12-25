@@ -82,21 +82,19 @@ layout: base
 ## Work Experience
 
 * **Jan 2019 - Mar 2019**
-  > **Highland Coffee** - _Barista_  
-  
-  * Preparing materials to make drinks.
-  * Making drinks for customers.
-  * Managing and declaring amount of materials used per day.
-  > **Highland Coffee** - _Server_  
-
-  * Preparing the coffee shop before customers arrive.
-  * Serving drinks to customers.
-  * Cleaning up after customers leave.
+  * **Highland Coffee** - _Barista_
+    * Preparing materials to make drinks.
+    * Making drinks for customers.
+    * Managing and declaring amount of materials used per day.
+  * **Highland Coffee** - _Server_
+    * Preparing the coffee shop before customers arrive.
+    * Serving drinks to customers.
+    * Cleaning up after customers leave.
 
 ## Hobbies
 
 * **Sports:** Basketball, Soccer
-* **Games:** 
+* **Games:**
   * Playing board games with friends
   * Playing video games on computer and nintendo switch
 * **Others:** Traveling, Watching movies
