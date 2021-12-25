@@ -86,6 +86,7 @@ layout: base
   * Preparing materials to make drinks.
   * Making drinks for customers.
   * Managing and declaring amount of materials used per day.
+  
   > **Highland Coffee** - _Server_  
   * Preparing the coffee shop before customers arrive.
   * Serving drinks to customers.
