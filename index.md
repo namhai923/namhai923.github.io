@@ -83,9 +83,9 @@ layout: base
 
 * **Jan 2019 - Mar 2019**
   > **Highland Coffee** - _Barista_  
-  Preparing materials to make drinks.
-  Making drinks for customers.
-  Managing and declaring amount of materials used per day.
+  * Preparing materials to make drinks.
+  * Making drinks for customers.
+  * Managing and declaring amount of materials used per day.
 
 ## Hobbies
 
