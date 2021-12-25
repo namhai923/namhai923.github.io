@@ -7,7 +7,7 @@ layout: base
 
 ## Contact
 
-* **Phone:** 999-999-9999
+* **Phone:** 431-336-9280
 * **GitHub:** <https://github.com/namhai923>
 
 ## Education
