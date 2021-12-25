@@ -71,7 +71,7 @@ layout: base
   > **Wildlife At Risk (WAR)**  
   Preparing for the exhibition, making insect specimens for displaying.
 
-* **September 2029**
+* **September 2019**
   > **International College of Manitoba Orientation Day**  
   Preparing a welcoming party for new international students.
 
