@@ -67,7 +67,7 @@ layout: base
 
 ## Volunteer
 
-* **June 2013 - Aug 2013**
+* **Jun 2013 - Aug 2013**
   > **Wildlife At Risk (WAR)**  
   Preparing for the exhibition, making insect specimens for displaying.
 
@@ -78,6 +78,12 @@ layout: base
 * **September 2019**
   > **Extra Life North**  
   Preparing for a 24-hour game-a-thon charity event to raise money for the Children's Hospital Foundation of Manitoba.
+  
+## Work Experience
+
+* **Jan 2019 - Mar 2019**
+  > **Highland Coffee** - _Barista_  
+  Preparing drinks for customers.
 
 ## Hobbies
 
