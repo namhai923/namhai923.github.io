@@ -83,7 +83,7 @@ layout: base
 
 * **Jan 2019 - Mar 2019**
   > **Highland Coffee** - _Barista_  
-  Preparing drinks for customers.
+  Making drinks for customers.
 
 ## Hobbies
 
