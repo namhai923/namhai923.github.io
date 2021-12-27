@@ -21,7 +21,7 @@ layout: base
   > **University of Manitoba** - _Computer Science_  
     BSc Computer Science Major  
     Current GPA: 4.31/4.5  
-    Expected: September 2023
+    Expected graduation: September 2023
 
 ## Technical Skills
 
@@ -45,6 +45,13 @@ layout: base
   * NodeJS and ExpressJS
   * Redux
 
+## Transferable Skills
+
+* Using logical thinking and mathematics to solve problems
+* Dealing with obstacles
+* Listening skills and written communication
+* Providing constructive feedback when doing teamwork
+
 ## Projects
 
 * [**PokeGene**](https://github.com/namhai923/PokeGene)  
@@ -65,20 +72,6 @@ layout: base
 * [**Excel**](https://github.com/namhai923/Excel)
   > An application that will take in a excel file (.xlsx) and extract selected column to a text file.
 
-## Volunteer
-
-* **Jun 2013 - Aug 2013**
-  > **Wildlife At Risk (WAR)**  
-  Preparing for the exhibition, making insect specimens for displaying.
-
-* **September 2019**
-  > **International College of Manitoba Orientation Day**  
-  Preparing a welcoming party for new international students.
-
-* **September 2019**
-  > **Extra Life North**  
-  Preparing for a 24-hour game-a-thon charity event to raise money for the Children's Hospital Foundation of Manitoba.
-  
 ## Work Experience
 
 * **Jan 2019 - Mar 2019**
@@ -91,10 +84,22 @@ layout: base
     * Serving drinks to customers.
     * Cleaning up after customers leave.
 
+## Volunteer
+
+* **September 2019**
+  > **Extra Life North**  
+  Preparing for a 24-hour game-a-thon charity event to raise money for the Children's Hospital Foundation of Manitoba.
+  
+* **September 2019**
+  > **International College of Manitoba Orientation Day**  
+  Preparing a welcoming party for new international students.
+
+* **Jun 2013 - Aug 2013**
+  > **Wildlife At Risk (WAR)**  
+  Preparing for the exhibition, making insect specimens for displaying.
+
 ## Hobbies
 
 * **Sports:** Basketball, Soccer
-* **Games:**
-  * Playing board games with friends
-  * Playing video games on computer and nintendo switch
+* **Games:** Playing board games with friends
 * **Others:** Traveling, Watching movies
