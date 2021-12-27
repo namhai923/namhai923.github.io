@@ -15,7 +15,7 @@ layout: base
 * **May 2019 - May 2020**
   > **Internationnal College of Manitoba** - _Computer Science_  
     BSc Computer Science Major  
-    Achieve Academic Distinction/Merit Scholarship
+    Achieved Academic Distinction/Merit Scholarship
 
 * **May 2020 - Present**
   > **University of Manitoba** - _Computer Science_  
