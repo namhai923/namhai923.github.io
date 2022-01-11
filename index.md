@@ -63,11 +63,11 @@ layout: base
 * [**Food Delivery Interface (Group Project)**](https://github.com/namhai923/Food-Delivery-Interface)  
   > An interactive front-end website for a food delivery company such as DoorDash.
 
+* [**cs-scraper**](https://github.com/namhai923/cs_scraper)
+  > An application that scraping UoM CS department website and get all CS courses description.
+
 * [**booksight**](https://github.com/namhai923/booksight)  
   > A website that users can search and write reviews for books' - books' data is from [goodreads](https://www.goodreads.com/).
-
-* [**rock-paper-scissors**](https://github.com/namhai923/rock-paper-scissors)
-  > A rock-paper-scissors game on website.
 
 * [**Excel**](https://github.com/namhai923/Excel)
   > An application that will take in a excel file (.xlsx) and extract selected column to a text file.
