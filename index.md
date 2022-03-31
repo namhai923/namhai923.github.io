@@ -32,6 +32,7 @@ layout: base
 
 * **Tools and Technologies**
   * Visual Studio Code
+  * Android Studio
   * Git, GitHub
   * Figma
   * NPM
