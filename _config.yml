@@ -24,6 +24,7 @@ github: https://github.com/namhai923
 favicon: /img/favicon.ico
 apple_touch_icon: /img/favicon.ico
 accent_image: /img/background.jpg
+accent_color: rgb(238, 181, 40)
 description: >- # this means to ignore newlines until "baseurl:"
   I am a third year student who is passionate about computer, technology.
 baseurl: ""
