@@ -55,7 +55,7 @@ layout: base
 
 ## Projects
 
-* [**PokeGene**](https://github.com/namhai923/PokeGene)  
+* [**PokeGene**](https://pokegene.surge.sh/)  
   > A website that users can randomize a pokemon and manage their collection of pokemons.
 
 * [**DopePenguin**](https://github.com/namhai923/DopePenguin)  
