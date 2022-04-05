@@ -58,20 +58,11 @@ layout: base
 * [**PokeGene**](https://pokegene.surge.sh/)  
   > A website that users can randomize a pokemon and manage their collection of pokemons.
 
-* [**DopePenguin**](https://github.com/namhai923/DopePenguin)  
-  > A simple survival shooting game using pyglet - a Python library for building games.
-
 * [**Food Delivery Interface (Group Project)**](https://github.com/namhai923/Food-Delivery-Interface)  
   > An interactive front-end website for a food delivery company such as DoorDash.
 
 * [**cs-scraper**](https://github.com/namhai923/cs_scraper)
   > An application that scraping UoM CS department website and get all CS courses' description.
-
-* [**booksight**](https://github.com/namhai923/booksight)  
-  > A website that users can search and write reviews for books' - books' data is from [goodreads](https://www.goodreads.com/).
-
-* [**Excel**](https://github.com/namhai923/Excel)
-  > An application that will take in a excel file (.xlsx) and extract selected column to a text file.
 
 ## Work Experience
 
