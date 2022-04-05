@@ -20,7 +20,7 @@ layout: base
 * **May 2020 - Present**
   > **University of Manitoba** - _Computer Science_  
     BSc Computer Science Major  
-    Current GPA: 4.31/4.5  
+    Current GPA: 4.23/4.5  
     Expected graduation: September 2023
 
 ## Technical Skills
