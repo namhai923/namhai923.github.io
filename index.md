@@ -64,6 +64,9 @@ layout: base
 * [**cs-scraper**](https://github.com/namhai923/cs_scraper)
   > An application that scraping UoM CS department website and get all CS courses' description.
 
+* [**Bicep Gamers (Group Project)**](https://bicepgamers.webflow.io/)  
+  > An Android Application helps gamers to take breaks during gaming time.
+
 ## Work Experience
 
 * **Jan 2019 - Mar 2019**
