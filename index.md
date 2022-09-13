@@ -64,7 +64,7 @@ layout: base
 
 ## Work Experience
 
-* **Jan 2019 - Mar 2019**
+* **Sep 2018 - Mar 2019**
   * **Highland Coffee** - _Barista_
     * Making drinks for customers.
     * Managing and declaring amount of materials used per day.
