@@ -12,16 +12,16 @@ layout: base
 
 ## Education
 
-* **May 2019 - May 2020**
-  > **Internationnal College of Manitoba** - _Computer Science_  
-    BSc Computer Science Major  
-    Achieved Navitas Merit Scholarship
-
 * **May 2020 - Present**
   > **University of Manitoba** - _Computer Science_  
     BSc Computer Science Honours  
     Current GPA: 4.19/4.5  
     Expected graduation: September 2024
+
+* **May 2019 - May 2020**
+  > **Internationnal College of Manitoba** - _Computer Science_  
+    BSc Computer Science Major  
+    Achieved Navitas Merit Scholarship
 
 ## Technical Skills
 
