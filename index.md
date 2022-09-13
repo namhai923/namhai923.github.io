@@ -15,30 +15,25 @@ layout: base
 * **May 2019 - May 2020**
   > **Internationnal College of Manitoba** - _Computer Science_  
     BSc Computer Science Major  
-    Achieved Academic Distinction/Merit Scholarship
+    Achieved Navitas Merit Scholarship
 
 * **May 2020 - Present**
   > **University of Manitoba** - _Computer Science_  
-    BSc Computer Science Major  
-    Current GPA: 4.23/4.5  
-    Expected graduation: September 2023
+    BSc Computer Science Honours  
+    Current GPA: 4.19/4.5  
+    Expected graduation: September 2024
 
 ## Technical Skills
 
 * **Programming Languages**
-  * **Most familiar:** JavaScript  
-  * **Others:** C++, Java, Python
+  * C, C++, Javascript, Java, Python
   <br>
 
 * **Tools and Technologies**
   * Visual Studio Code
   * Android Studio
-  * Git, GitHub
-  * Figma
+  * Git
   * NPM
-  * MongoDB
-  * Webpack
-  * Auth0
   <br>
 
 * **Frameworks and Libraries**
@@ -48,9 +43,9 @@ layout: base
 
 ## Transferable Skills
 
-* Using logical thinking and mathematics to solve problems
-* Dealing with obstacles
-* Listening skills and written communication
+* Problem-solving
+* Time management
+* Written and verbal communication
 * Providing constructive feedback when doing teamwork
 
 ## Projects
@@ -87,14 +82,5 @@ layout: base
   
 * **September 2019**
   > **International College of Manitoba Orientation Day**  
-  Preparing a welcoming party for new international students.
-
-* **Jun 2013 - Aug 2013**
-  > **Wildlife At Risk (WAR)**  
-  Preparing for the exhibition, making insect specimens for displaying.
-
-## Hobbies
-
-* **Sports:** Basketball, Soccer
-* **Games:** Playing board games with friends
-* **Others:** Traveling, Watching movies
+    * Preparing a welcoming party for new students.
+    * Offering instructions to new students.
