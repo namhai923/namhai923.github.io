@@ -60,7 +60,7 @@ layout: base
   > An application that scraping UoM CS department website and get all CS courses' description.
 
 * [**Bicep Gamers (Group Project)**](https://bicepgamers.webflow.io/)  
-  > An Android Application helps gamers to take breaks during gaming time.
+  > An Android application helps gamers to take breaks during gaming time.
 
 ## Work Experience
 
