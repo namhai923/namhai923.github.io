@@ -69,9 +69,10 @@ layout: base
     * Making drinks for customers.
     * Managing and declaring amount of materials used per day.
   * **Highland Coffee** - _Server_
-    * Preparing and organizing the coffee shop before customers arrive.
+    * Preparing the coffee shop before customers arrive.
     * Serving drinks to customers.
-    * Keeping the coffe shop clean.
+    * Interacting with customers.
+    * Keeping the coffee shop clean.
 
 ## Volunteer
 
