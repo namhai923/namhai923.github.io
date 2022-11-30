@@ -16,71 +16,83 @@ layout: base
   > **University of Manitoba** - _Computer Science_  
     BSc Computer Science Honours  
     Current GPA: 4.19/4.5  
-    Expected graduation: September 2024
+    Expected graduation: 2024
 
 * **May 2019 - May 2020**
   > **Internationnal College of Manitoba** - _Computer Science_  
     BSc Computer Science Major  
-    Achieved Navitas Merit Scholarship
+    Achieved Academic Distinction/Merit Scholarship
 
-## Technical Skills
+## Skills
 
 * **Programming Languages**
-  * C, C++, Javascript, Java, Python
+  C, C++, Javascript, Java, Python
   <br>
 
 * **Tools and Technologies**
-  * Visual Studio Code
-  * Android Studio
-  * Git
-  * NPM
+  Visual Studio Code, Android Studio, Git, Figma, SQL, Hyperledger
   <br>
 
-* **Frameworks and Libraries**
-  * ReactJS (Hooks)
-  * NodeJS and ExpressJS
-  * Redux
-
-## Transferable Skills
-
-* Problem-solving
-* Time management
-* Written and verbal communication
-* Providing constructive feedback when doing teamwork
+* **Soft Skills**
+  Problem Solving, Interpersonal Communication, Quick Learner
 
 ## Projects
 
-* [**PokeGene**](https://pokegene.surge.sh/)  
-  > A website that users can randomize a pokemon and manage their collection of pokemons.
-
-* [**Food Delivery Interface (Group Project)**](https://orbeat.surge.sh/)  
-  > An interactive front-end website for a food delivery company such as DoorDash.
-
-* [**cs-scraper**](https://github.com/namhai923/cs_scraper)
-  > An application that scraping UoM CS department website and get all CS courses' description.
+* [**PokeGene**](https://pokegene.surge.sh/collection/add)  
+  > A website that users can randomize a pokemon and manage their collection of pokemons
+    * Create a Client-side Rendering website with **React** and **Redux**
+    * Collect Pokemon information by sending API requests to PokeAPI
+    * Use **Auth0** for user authentication
+    * Build a RESTful API with **NodeJS** and **ExpressJS** with **MongoDB** as the database
 
 * [**Bicep Gamers (Group Project)**](https://bicepgamers.webflow.io/)  
-  > An Android application helps gamers to take breaks during gaming time.
+  > An Android app that helps gamers take a break during game time
+    * Work as a team to build an Android project follow Agile methodology
+    * Come up with project's vision statement, carefully plan the project with user stories, tasks' estimation
+    * The application was built with **Android Studio** and **Microsoft SQL Server** as the database
+    * Strictly follow Model-View-Controller while developing the application
+
+* [**Food Delivery Interface (Group Project)**](https://orbeat.surge.sh/)  
+  > An interactive front-end website for an online food ordering
+    * Work with other team members to come up with a User-Centered Design by generating horizontal and vertical low-fidelity prototypes
+    * Use **Figma** to create high-fidelity prototypes
+    * Use pure **HTML**, **CSS** and **Javascript** to build an interactive website interface
+
+* [**cs-scraper**](https://github.com/namhai923/cs_scraper)
+  > An application that scraping UoM CS department website and get all CS courses’ description
+    * Use **Selenium** to scrape PDF courses' descriptions from University of Manitoba Department of Computer Science website
+    * Use Python library **Pdfplumber** to extract data from PDF files and convert those into JSON
+
+## Publications
+> S. Singh Sidhu, M. N. H. Nguyen, C. Ngene and S. Rouhani, "Trust Development for Blockchain Interoperability Using Self-sovereign Identity Integration," 2022 IEEE 13th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON), 2022, pp. 0033-0040, doi: 10.1109/IEMCON56893.2022.9946562.
+
+  * Build a prototype as a Proof of Concept for the paper
+  * The prototype is based on publisher-subscriber architecture and REST API is used for data transmitting
+  * Use **Hyperledger Fabric** to store data created and exchanged by users
+  * Use **Hyperledger Aries** to build a system that authenticate and authorize users' accesses
+
 
 ## Work Experience
 
+* **Sep 2022 - Current**
+  > **Stella's** - _Expeditor (EXPO)_
+    * Decorate the dish and bring it to the table
+    * Keep the EXPO area clean and tidy
+    * Prepare ingredients for the next shift before leaving
+ 
 * **Sep 2018 - Mar 2019**
-  * **Highland Coffee** - _Barista_
-    * Making drinks for customers.
-    * Managing and declaring amount of materials used per day.
-  * **Highland Coffee** - _Server_
-    * Preparing the coffee shop before customers arrive.
-    * Serving drinks to customers.
-    * Interacting with customers.
-    * Keeping the coffee shop clean.
+  > **Highland Coffee** - _Barista_
+    * Manage ingredients to make drinks
+    * Prepare drinks for customers
+    * Keep the bar area cleaned and tidy
 
 ## Volunteer
 
 * **September 2019**
   > **Extra Life North**  
-  Preparing for a 24-hour game-a-thon charity event to raise money for the Children's Hospital Foundation of Manitoba.
+    * Prepare for a 24-hour game-a-thon charity event to raise money for the Children's Hospital Foundation of Manitoba.
   
 * **September 2019**
   > **International College of Manitoba Orientation Day**  
-    * Preparing a welcoming party for new students.
-    * Offering instructions to new students.
+    * Prepare a welcoming party for new students.
+    * Offer instructions to new students.
