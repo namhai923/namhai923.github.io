@@ -34,7 +34,7 @@ layout: base
   <br>
 
 * **Soft Skills**
-  Problem Solving, Interpersonal Communication, Quick Learner
+  Problem Solving, Good Listener, Quick Learner
 
 ## Projects
 
@@ -73,6 +73,9 @@ layout: base
 
 
 ## Work Experience
+
+* **Jan 2023 - Apr 2023**
+  > **University of Manitoba** - _Grader/Marker_
 
 * **Sep 2022 - Current**
   > **Stella's** - _Expeditor (EXPO)_
