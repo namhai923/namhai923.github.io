@@ -64,7 +64,7 @@ layout: base
     * Use Python library **Pdfplumber** to extract data from PDF files and convert those into JSON
 
 ## Publications
-> S. Singh Sidhu, M. N. H. Nguyen, C. Ngene and S. Rouhani, "Trust Development for Blockchain Interoperability Using Self-sovereign Identity Integration," 2022 IEEE 13th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON), 2022, pp. 0033-0040, doi: 10.1109/IEMCON56893.2022.9946562.
+> S. Singh Sidhu, M. N. H. Nguyen, C. Ngene and S. Rouhani, "Trust Development for Blockchain Interoperability Using Self-sovereign Identity Integration," 2022 IEEE 13th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON), 2022, pp. 0033-0040, doi: 10.1109/IEMCON56893.2022.9946562.  
 [Show publication](https://doi.org/10.1109/IEMCON56893.2022.9946562)
 
   * Build a prototype as a Proof of Concept for the paper
