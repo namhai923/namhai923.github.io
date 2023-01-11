@@ -77,7 +77,7 @@ layout: base
 * **Jan 2023 - Apr 2023**
   > **University of Manitoba** - _Grader/Marker_
 
-* **Sep 2022 - Current**
+* **Oct 2022 - Current**
   > **Stella's** - _Expeditor (EXPO)_
     * Decorate the dish and bring it to the table
     * Keep the EXPO area clean and tidy
