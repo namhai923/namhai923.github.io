@@ -59,7 +59,7 @@ layout: base
     * Use pure **HTML**, **CSS** and **Javascript** to build an interactive website interface
 
 * [**cs-scraper**](https://github.com/namhai923/cs_scraper)
-  > An application that scraping UoM CS department website and get all CS courses’ description
+  > An application that scraping University of Manitoba Computer Science department website and get all courses’ description
     * Use **Selenium** to scrape PDF courses' descriptions from University of Manitoba Department of Computer Science website
     * Use Python library **Pdfplumber** to extract data from PDF files and convert those into JSON
 
