@@ -15,7 +15,7 @@ layout: base
 * **May 2020 - Present**
   > **University of Manitoba** - _Computer Science_  
     BSc Computer Science Honours  
-    Current GPA: 4.19/4.5  
+    Current GPA: 4.1/4.5  
     Expected graduation: 2024
 
 * **May 2019 - May 2020**
@@ -65,11 +65,10 @@ layout: base
 
 ## Publications
 > S. Singh Sidhu, M. N. H. Nguyen, C. Ngene and S. Rouhani, "Trust Development for Blockchain Interoperability Using Self-sovereign Identity Integration," 2022 IEEE 13th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON), 2022, pp. 0033-0040, doi: 10.1109/IEMCON56893.2022.9946562.
+[Show publication](https://doi.org/10.1109/IEMCON56893.2022.9946562)
 
   * Build a prototype as a Proof of Concept for the paper
   * The prototype is based on publisher-subscriber architecture and REST API is used for data transmitting
-  * Use **Hyperledger Fabric** to store data created and exchanged by users
-  * Use **Hyperledger Aries** to build a system that authenticate and authorize users' accesses
 
 
 ## Work Experience
