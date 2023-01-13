@@ -82,12 +82,6 @@ layout: base
     * Decorate the dish and bring it to the table
     * Keep the EXPO area clean and tidy
     * Prepare ingredients for the next shift before leaving
- 
-* **Sep 2018 - Mar 2019**
-  > **Highland Coffee** - _Barista_
-    * Manage ingredients to make drinks
-    * Prepare drinks for customers
-    * Keep the bar area cleaned and tidy
 
 ## Volunteer
 
