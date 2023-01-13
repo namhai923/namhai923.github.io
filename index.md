@@ -16,7 +16,7 @@ layout: base
   > **University of Manitoba** - _Computer Science_  
     BSc Computer Science Honours  
     Current GPA: 4.1/4.5  
-    Expected graduation: 2024
+    Expected graduation: May 2024
 
 * **May 2019 - May 2020**
   > **Internationnal College of Manitoba** - _Computer Science_  
