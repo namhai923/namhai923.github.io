@@ -27,9 +27,8 @@ accent_image: /img/background.jpg
 accent_color: rgb(238, 181, 40)
 description: >- # this means to ignore newlines until "baseurl:"
   I am currently a Computer Science Honours student at the University of Manitoba. 
-  In the Honours program, I have the opportunity to dive deeper into different topics of Computer Science such as Algorithms and Data Structures, 
-  Automata Theory, Operating Systems, etc. However, I have a great interest in Distributed Computing. I am always looking for ways to develop myself. 
-  The most recent accomplishment that I am proud of was to have a research paper published at an IEEE Conference.
+  In the Honours program, I have the opportunity to dive deeper into different topics of Computer Science. 
+  I have a great interest in Distributed Computing and always looking for ways to develop myself. 
 baseurl: ""
 github_username: namhai923
 # Build settings
