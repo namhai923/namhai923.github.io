@@ -10,6 +10,13 @@ layout: base
 * **Phone:** 431-336-9280
 * **LinkedIn:** <https://www.linkedin.com/in/akias>
 
+## Profile
+
+* A Computer Science student at the University of Manitoba.
+* Have the opportunity to dive deeper into different topics of Computer Science.
+* Have a great interest in Distributed Computing.
+* Have a research paper published at an IEEE Conference.
+
 ## Education
 
 * **May 2020 - Present**
@@ -35,10 +42,10 @@ layout: base
 
 * [**PokeGene**](https://pokegene.surge.sh/collection/add)  
   > A website that users can randomize a pokemon and manage their collection of pokemons
-    * Created a Client-side Rendering website with **React** and **Redux**
-    * Collect Pokemon information by sending API requests to PokeAPI
-    * Use **Auth0** for user authentication
-    * Build a RESTful API with **NodeJS** and **ExpressJS** with **MongoDB** as the database
+    * Created a Client-side Rendering website with **React** and **Redux**.
+    * Collect Pokemon information by sending API requests to PokeAPI.
+    * Use **Auth0** for user authentication.
+    * Build a RESTful API with **NodeJS** and **ExpressJS** with **MongoDB** as the database.
 
 * [**Bicep Gamers (Group Project)**](https://bicepgamers.webflow.io/)  
   > An Android app that helps gamers take a break during game time
