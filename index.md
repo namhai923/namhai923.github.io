@@ -10,13 +10,6 @@ layout: base
 * **Phone:** 431-336-9280
 * **LinkedIn:** <https://www.linkedin.com/in/akias>
 
-## Profile
-
-* A Computer Science student at the University of Manitoba.
-* Have the opportunity to dive deeper into different topics of Computer Science.
-* Have a great interest in Distributed Computing.
-* Have a research paper published at an IEEE Conference.
-
 ## Education
 
 * **May 2020 - Present**
@@ -32,71 +25,84 @@ layout: base
 
 ## Skills
 
-* **Programming Languages:**  C, C++, Javascript, Java, Python
+* **Software Development:** 
+  * Data Structures
+  * Object Oriented Programming
+  * Agile Project Management
+  * SDLC Development
+  * Distributed Technologies
   <br>
 
-* **Tools and Technologies:** Visual Studio Code, Android Studio, HTML, CSS, React, Redux, ExpressJS, MongoDB, Git, Figma, SQL, Hyperledger
+* **Tools and Technologies:** 
+  * Git/GitHub
+  * Scripting Languages: Python, JavaScript
+  * React Js (Hook), Redux, Node Js, Express Js
+  * Databases: SQL Server, MongoDB
+  * Restful API
   <br>
 
-## Projects
+## Projects and research
+* **Trust Development for Blockchain Interoperability Using Self-sovereign Identity Integration**  
+  > 2022 IEEE 13th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)  
+  [Show publication](https://doi.org/10.1109/IEMCON56893.2022.9946562)
 
 * [**PokeGene**](https://pokegene.surge.sh/collection/add)  
   > A website that users can randomize a pokemon and manage their collection of pokemons
-    * Created a Client-side Rendering website with **React** and **Redux**.
-    * Collect Pokemon information by sending API requests to PokeAPI.
-    * Use **Auth0** for user authentication.
-    * Build a RESTful API with **NodeJS** and **ExpressJS** with **MongoDB** as the database.
+    * Developed a full-stack web application with **React**, **Redux**, **NodeJS**, **ExpressJS**, and **MongoDB**.
+    * Utilized PokeAPI to gather and display comprehensive information on the website.
+    * Integrated **Auth0** for secure user authentication and authorization.
+    * Created a **Restful API** to facilitate communication between client and server.
+    * Optimized website performance by caching information in server's database and reducing API calls.
 
 * [**Bicep Gamers (Group Project)**](https://bicepgamers.webflow.io/)  
   > An Android app that helps gamers take a break during game time
-    * Worked as a team to build an Android project following Agile methodology.
-    * Came up with project's vision statement.
-    * Planned the project with user stories and task estimation.
-    * Built the application with **Android Studio** and **Microsoft SQL Server** as the database.
-    * Strictly followed Model-View-Controller while developing the application.
+    * Collaborated with a team of developers to build an Android application using Agile methodology.
+    * Produced the project's vision statement to align development efforts and ensure project success.
+    * Planned project development with user stories and task estimation to ensure timely and efficient delivery.
+    * Utilized **Microsoft SQL Server** to enable efficient data storage and retrieval.
+    * Conducted comprehensive testing and debugging to ensure seamless performance across all devices.
+    * Ensured efficient and scalable application development through strict adherence to Model-View-Controller (**MVC**) architectural pattern.
 
 * [**Food Delivery Interface (Group Project)**](https://orbeat.surge.sh/)  
   > An interactive front-end website for an online food ordering
-    * Came up with a User-Centered Design by generating low-fidelity prototypes.
-    * Used **Figma** to create high-fidelity prototypes.
-    * Used pure **HTML**, **CSS** and **Javascript** to build an interactive website interface.
-
-* [**cs-scraper**](https://github.com/namhai923/cs_scraper)
-  > An application that scraping University of Manitoba Computer Science department website and get all courses’ description
-    * Used **Selenium** to scrape PDF courses' descriptions from University of Manitoba Department of Computer Science website.
-    * Used Python library **Pdfplumber** to extract data from PDF files and convert those into JSON.
-
-## Publications
-> **Trust Development for Blockchain Interoperability Using Self-sovereign Identity Integration**  
-> 2022 IEEE 13th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)  
-[Show publication](https://doi.org/10.1109/IEMCON56893.2022.9946562)
+    * Developed a User-Centered Design approach to produce low-fidelity prototypes for a food delivery website interface.
+    * Created high-fidelity prototypes using **Figma** to ensure visual consistency and efficient design development.
+    * Utilized pure **HTML**, **CSS**, and **JavaScript** to build an interactive website interface that optimized user experience.
 
 ## Work Experience
 
 * **May 2022 - Aug 2022**
   > **University of Manitoba** - _Research Assistant_
-    * Created a secure Blockchain Interoperability based on Publish/Subscribe architecture.
-    * Used **Hyperledger** technologies to authenticate and authorize users’ access.
-    * Participated in writing a research paper under the professor’s supervision.
+    * Developed a secure Blockchain Interoperability solution using a Publish/Subscribe architecture to enhance data exchange between disparate blockchain networks.
+    * Utilized Hyperledger technologies to authenticate and authorize users' access, ensuring secure data transfer and privacy.
+    * Demonstrated strong analytical and problem-solving abilities by identifying and troubleshooting issues in the blockchain ecosystem.
+    * Collaborated effectively with the research team, providing valuable insights and feedback during brainstorming sessions and code reviews.
 
 * **Jan 2023 - Present**
   > **University of Manitoba** - _Grader/Marker_
-    * Grade and mark work submitted by students from assignments and exams.
-    * Provide written feedback to the students.
-
+    * Carefully review and analyze each student's work to provide accurate grades.
+    * Manage time effectively to complete grading assignments within the required timeframe.
+    * Explain grades and answer questions from students.
+    * Assess and evaluate students' work, identify areas for improvement, and provide constructive feedback.
+    * 
 * **Oct 2022 - Present**
   > **Stella's** - _Expeditor (EXPO)_
-    * Decorate the dish and check the food quality before bringing it to the table.
-    * Keep the EXPO area clean and organized.
-    * Prepare ingredients for the next shift before leaving.
+    * Communicated effectively with the kitchen staff, and servers to ensure that the dishes are prepared and delivered as preferences.
+    * Paid close attention to the details to ensure that each dish is decorated perfectly and presented in the best possible manner.
+    * Worked under high pressure and managed multiple dishes at once.
+    * Worked closely with the kitchen staff, servers, and management to ensure that the restaurant runs smoothly.
 
 ## Volunteer
 
 * **September 2019**
   > **Extra Life North**  
-    * Prepared for a charity event to raise money for the Children’s Hospital Foundation of Manitoba.
+    * Planned and organized a charity event to raise funds for the Children's Hospital Foundation of Manitoba.
+    * Coordinated with other volunteers to ensure the event's success.
+    * Developed event planning and organizational skills through volunteer work.
+    * Demonstrated community engagement and social responsibility by contributing to a charitable cause.
   
 * **September 2019**
   > **International College of Manitoba Orientation Day**  
-    * Prepared a welcoming party for new students.
-    * Offered instructions to new students.
+    * Organized and executed a welcoming party for new students at the International College of Manitoba.
+    * Provided instructions and information to new students to help them adjust to campus life.
+    * Demonstrated communication and interpersonal skills while working with new students and other volunteers.
