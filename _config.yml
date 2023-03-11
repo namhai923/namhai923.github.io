@@ -26,9 +26,9 @@ apple_touch_icon: /img/favicon.ico
 accent_image: /img/background.jpg
 accent_color: rgb(238, 181, 40)
 description: >- # this means to ignore newlines until "baseurl:"
-  I am currently a Computer Science Honours student at the University of Manitoba. 
-  In the Honours program, I have the opportunity to dive deeper into different topics of Computer Science. 
-  I have a great interest in Distributed Computing and always looking for ways to develop myself. 
+  With a published paper at an IEEE conference, I have a strong foundation in cutting-edge technologies. However, my true passion lies in software development, 
+  where I can apply my knowledge to create practical solutions that meet real-world challenges. With a solid understanding of software engineering principles, 
+  combined with my research background, I am confident in my ability to develop innovative software products that are both technically advanced and user-friendly.
 baseurl: ""
 github_username: namhai923
 # Build settings
