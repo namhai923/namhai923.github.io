@@ -42,25 +42,26 @@ layout: base
   <br>
 
 ## Projects and research
+* [**Bison Bank of Canada**](https://bbc-wkhb.onrender.com/info)  
+  > A website that users can randomize a pokemon and manage their collection of pokemons
+    * Developed a full-stack web application with **React**, **Redux**, **NodeJS**, **ExpressJS**, and **MongoDB**.
+    * Created a **Restful API** to facilitate communication between client and server.
+    * Optimized website performance by caching information in server's database and reducing API calls.
+
 * **Trust Development for Blockchain Interoperability Using Self-sovereign Identity Integration**  
   > 2022 IEEE 13th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)  
   [Show publication](https://doi.org/10.1109/IEMCON56893.2022.9946562)
 
 * [**PokeGene**](https://pokegene.surge.sh/collection/add)  
-  > A website that users can randomize a pokemon and manage their collection of pokemons
-    * Developed a full-stack web application with **React**, **Redux**, **NodeJS**, **ExpressJS**, and **MongoDB**.
+  > A website that users can randomize a pokemon
+    * Developed a front-end web application with **React** and **Redux**.
     * Utilized PokeAPI to gather and display comprehensive information on the website.
-    * Integrated **Auth0** for secure user authentication and authorization.
-    * Created a **Restful API** to facilitate communication between client and server.
-    * Optimized website performance by caching information in server's database and reducing API calls.
 
 * [**Bicep Gamers (Group Project)**](https://bicepgamers.webflow.io/)  
   > An Android app that helps gamers take a break during game time
     * Collaborated with a team of developers to build an Android application using Agile methodology.
     * Produced the project's vision statement to align development efforts and ensure project success.
     * Planned project development with user stories and task estimation to ensure timely and efficient delivery.
-    * Utilized **Microsoft SQL Server** to enable efficient data storage and retrieval.
-    * Conducted comprehensive testing and debugging to ensure seamless performance across all devices.
     * Ensured efficient and scalable application development through strict adherence to Model-View-Controller (**MVC**) architectural pattern.
 
 * [**Food Delivery Interface (Group Project)**](https://orbeat.surge.sh/)  
