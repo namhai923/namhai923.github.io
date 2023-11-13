@@ -80,7 +80,7 @@ layout: base
     * Collaborated effectively with the research team, providing valuable insights and feedback during brainstorming sessions and code reviews.
 
 * **Jan 2023 - Present**
-  > **University of Manitoba** - _Grader/Marker_
+  > **University of Manitoba** - _Grader/Teaching Assistant_
     * Carefully review and analyze each student's work to provide accurate grades.
     * Manage time effectively to complete grading assignments within the required timeframe.
     * Explain grades and answer questions from students.
