@@ -43,7 +43,7 @@ layout: base
 
 ## Projects and research
 * [**Bison Bank of Canada**](https://bbc-wkhb.onrender.com/info)  
-  > A website that users can randomize a pokemon and manage their collection of pokemons
+  > A website that users can manage their debts and favors
     * Developed a full-stack web application with **React**, **Redux**, **NodeJS**, **ExpressJS**, and **MongoDB**.
     * Created a **Restful API** to facilitate communication between client and server.
     * Optimized website performance by caching information in server's database and reducing API calls.
