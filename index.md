@@ -35,22 +35,29 @@ layout: base
 
 * **Tools and Technologies:** 
   * Git/GitHub
-  * Scripting Languages: Python, JavaScript
-  * React Js (Hook), Redux, Node Js, Express Js
+  * Scripting Languages: Python, JavaScript, TypeScript
+  * ReactJS (Hook), Redux, NodeJS, ExpressJS, NextJS
   * Databases: SQL Server, MongoDB
+  * CMS: Sanity
   * Restful API
   <br>
 
-## Projects and research
+## Research
+* **Trust Development for Blockchain Interoperability Using Self-sovereign Identity Integration**  
+  > 2022 IEEE 13th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)  
+  [Show publication](https://doi.org/10.1109/IEMCON56893.2022.9946562)
+
+## Projects
+* [**Blog Website**](https://blog-website-liard-one.vercel.app/)  
+  > A blog website template with integrated CMS
+    * Built the website with **TypeScript** and **NextJS** .
+    * Integrated CMS **(Sanity)** into the website.
+
 * [**Bison Bank of Canada**](https://bbc-wkhb.onrender.com/info)  
   > A website that users can manage their debts and favors
     * Developed a full-stack web application with **React**, **Redux**, **NodeJS**, **ExpressJS**, and **MongoDB**.
     * Created a **Restful API** to facilitate communication between client and server.
     * Optimized website performance by caching information in server's database and reducing API calls.
-
-* **Trust Development for Blockchain Interoperability Using Self-sovereign Identity Integration**  
-  > 2022 IEEE 13th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)  
-  [Show publication](https://doi.org/10.1109/IEMCON56893.2022.9946562)
 
 * [**PokeGene**](https://pokegene.surge.sh/collection/add)  
   > A website that users can randomize a pokemon
