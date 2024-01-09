@@ -54,10 +54,10 @@ layout: base
 * [**Blog Website Template**](https://blog-website-liard-one.vercel.app/)  
   > A blog website template with integrated Sanity CMS
     * Built the website with **TypeScript** and **NextJS** .
-    * Integrated CMS **(Sanity)** into the website.
+    * Integrated multiple utility plugins from **(Sanity)** (such as realtime editing) into the website.
 
 * [**Bison Bank of Canada**](https://bbc-wkhb.onrender.com/info)  
-  > A website that users can manage their debts and favors
+  > An interactive website that users can manage their debts and favors
     * Developed a full-stack web application with **React**, **Redux**, **NodeJS**, **ExpressJS**, and **MongoDB**.
     * Created a **Restful API** to facilitate communication between client and server.
     * Optimized website performance by caching information in server's database and reducing API calls.
