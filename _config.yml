@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-
+title: Hai Nguyen
 github: https://github.com/namhai923
 favicon: /img/favicon.ico
 apple_touch_icon: /img/favicon.ico
@@ -27,6 +27,7 @@ accent_color: rgb(238, 181, 40)
 author:
   name: Haiya Nguyen
   email: namhainguyenminh@gmail.com
+  about: A UofM student who interested in Web Development
 description: >- # this means to ignore newlines until "baseurl:"
   
 baseurl: ""
