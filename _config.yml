@@ -23,14 +23,6 @@ favicon: /img/favicon.ico
 apple_touch_icon: /img/favicon.ico
 accent_image: /img/background.jpg
 accent_color: rgb(238, 181, 40)
-author:
-  name: Haiya Nguyen
-  email: namhainguyenminh@gmail.com
-  social:
-    linkedin: https://github.com/namhai923
-    github: https://github.com/namhai923
-  about: |
-    A UofM student who interested in Web Development
 description: >- # this means to ignore newlines until "baseurl:"
   
 baseurl: ""
@@ -40,6 +32,15 @@ remote_theme: hydecorp/hydejack@v9.1.6
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+
+author:
+  name: Haiya Nguyen
+  email: namhainguyenminh@gmail.com
+  social:
+    linkedin: https://github.com/namhai923
+    github: https://github.com/namhai923
+  about: |
+    A UofM student who interested in Web Development
 
 # Exclude from processing.
 # The following items will not be processed, by default.
