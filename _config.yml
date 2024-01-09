@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hai Nguyen
+
 github: https://github.com/namhai923
 favicon: /img/favicon.ico
 apple_touch_icon: /img/favicon.ico
