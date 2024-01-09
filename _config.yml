@@ -27,7 +27,8 @@ accent_color: rgb(238, 181, 40)
 author:
   name: Haiya Nguyen
   email: namhainguyenminh@gmail.com
-  about: A UofM student who interested in Web Development
+  about: |
+    A UofM student who interested in Web Development
 description: >- # this means to ignore newlines until "baseurl:"
   
 baseurl: ""
