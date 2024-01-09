@@ -24,14 +24,6 @@ favicon: /img/favicon.ico
 apple_touch_icon: /img/favicon.ico
 accent_image: /img/background.jpg
 accent_color: rgb(238, 181, 40)
-author:
-  name: Hai Nguyen
-  social:
-    github: https://github.com/namhai923
-    linkedin: https://github.com/namhai923
-    email: namhainguyenminh@gmail.com
-  about: |
-    A UofM student who interested in Web Development
 description: >- # this means to ignore newlines until "baseurl:"
   
 baseurl: ""
