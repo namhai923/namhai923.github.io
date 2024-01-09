@@ -7,7 +7,7 @@ layout: base
 
 ## Contact
 
-* **Phone:** 431-336-9280
+* **Phone Number:** (+1) 431-336-9280
 
 ## Education
 
@@ -16,6 +16,10 @@ layout: base
     BSc Computer Science Honours  
     * Current GPA: 4.1/4.5  
     * Expected graduation: May 2024
+    * Concentrations:
+      * Software Engineering
+      * Web-Based Systems
+      * Networks and Security
 
 * **May 2019 - May 2020**
   > **Internationnal College of Manitoba** - _Computer Science_  
