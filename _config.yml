@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Hai Nguyen
-email: namhainguyenminh@gmail.com
 favicon: /img/favicon.ico
 apple_touch_icon: /img/favicon.ico
 accent_image: /img/background.jpg
