@@ -48,8 +48,8 @@ layout: base
   [Show publication](https://doi.org/10.1109/IEMCON56893.2022.9946562)
 
 ## Projects
-* [**Blog Website**](https://blog-website-liard-one.vercel.app/)  
-  > A blog website template with integrated CMS
+* [**Blog Website Template**](https://blog-website-liard-one.vercel.app/)  
+  > A blog website template with integrated Sanity CMS
     * Built the website with **TypeScript** and **NextJS** .
     * Integrated CMS **(Sanity)** into the website.
 
@@ -88,12 +88,12 @@ layout: base
 
 * **Jan 2023 - Present**
   > **University of Manitoba** - _Grader/Teaching Assistant_
-    * Carefully review and analyze each student's work to provide accurate grades.
-    * Manage time effectively to complete grading assignments within the required timeframe.
-    * Explain grades and answer questions from students.
-    * Assess and evaluate students' work, identify areas for improvement, and provide constructive feedback.
-    * 
-* **Oct 2022 - Present**
+    * Carefully reviewed and analyzed each student's work to provide accurate grades.
+    * Managed time effectively to complete grading assignments within the required timeframe.
+    * Explained grades and answered questions from students.
+    * Assessed and evaluated students' work, identify areas for improvement, and provide constructive feedback.
+      
+* **Oct 2022 - Feb 2023**
   > **Stella's** - _Expeditor (EXPO)_
     * Communicated effectively with the kitchen staff, and servers to ensure that the dishes are prepared and delivered as preferences.
     * Paid close attention to the details to ensure that each dish is decorated perfectly and presented in the best possible manner.
