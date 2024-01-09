@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Hai Nguyen
-github: https://github.com/namhai923
 favicon: /img/favicon.ico
 apple_touch_icon: /img/favicon.ico
 accent_image: /img/background.jpg
@@ -28,8 +27,7 @@ author:
   name: Haiya Nguyen
   email: namhainguyenminh@gmail.com
   social:
-    youtube: https://www.youtube.com/watch?v=bb2vxGQyJNo
-    twitter: https://github.com/namhai923
+    linkedin: https://github.com/namhai923
     github: https://github.com/namhai923
   about: |
     A UofM student who interested in Web Development
