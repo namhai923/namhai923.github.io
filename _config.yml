@@ -27,7 +27,10 @@ accent_color: rgb(238, 181, 40)
 author:
   name: Haiya Nguyen
   email: namhainguyenminh@gmail.com
-  youtube: https://www.youtube.com/watch?v=bb2vxGQyJNo
+  social:
+    youtube: https://www.youtube.com/watch?v=bb2vxGQyJNo
+    twitter: https://github.com/namhai923
+    github: https://github.com/namhai923
   about: |
     A UofM student who interested in Web Development
 description: >- # this means to ignore newlines until "baseurl:"
