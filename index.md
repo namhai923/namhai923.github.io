@@ -10,7 +10,7 @@ layout: base
 * **Phone:** 431-336-9280
 * **LinkedIn:** <https://www.linkedin.com/in/akias>
 
-## Educationn
+## Education
 
 * **May 2020 - Present**
   > **University of Manitoba** - _Computer Science_  
