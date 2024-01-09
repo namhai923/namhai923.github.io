@@ -8,7 +8,6 @@ layout: base
 ## Contact
 
 * **Phone:** 431-336-9280
-* **LinkedIn:** <https://www.linkedin.com/in/akias>
 
 ## Education
 
