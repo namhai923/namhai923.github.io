@@ -7,7 +7,7 @@ author:
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
     Open `_data/authors.yml` to edit this text.
-    
-  twitter:           <username>
-  github:            <username>
-  linkedin:          <firstname-lastname-string>
+  social:
+    twitter:           <username>
+    github:            <username>
+    linkedin:          <firstname-lastname-string>
