@@ -1,6 +1,6 @@
 author:
   name:              <firtname> <lastname>
-  email:             namhainguyenminh@gmail.com
+
   about:             |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -8,6 +8,6 @@ author:
 
     Open `_data/authors.yml` to edit this text.
   social:
-    twitter:           <username>
     github:            <username>
     linkedin:          <firstname-lastname-string>
+    email:             namhainguyenminh@gmail.com
