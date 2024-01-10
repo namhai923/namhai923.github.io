@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Hai Nguyen
-favicon: /img/favicon.ico
+favicon: /img/favicon.svg
 apple_touch_icon: /img/favicon.ico
-accent_image: /img/background.jpg
+accent_image: /img/test-background.jpg
 accent_color: rgb(238, 181, 40)
 author:
   name:              Hai Nguyen
